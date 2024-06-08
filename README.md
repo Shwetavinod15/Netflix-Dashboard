@@ -27,7 +27,7 @@ The Netflix Data Visualization Dashboard was crafted to provide a comprehensive 
 - Genre
 - Description
 
-You can find the dataset in this repository or view it [here](./netflix_Data.csv).
+You can find the dataset in this repository or view it [here](./Netflix_Data.csv).
 
 ## Visual Data Insights:
 
