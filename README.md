@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository hosts the dataset and details related to the Tableau dashboard visualization of Netflix shows and movies. The dashboard provides insights into the type, release year, rating, and country distribution of Netflix content, among other metrics.
+This repository contains the dataset and information related to the Tableau dashboard visualization of Netflix shows and movies. The dashboard offers insights into various metrics, including the type, release year, rating, and country distribution of Netflix content.
 
 ## Dashboard
 
