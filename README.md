@@ -8,7 +8,7 @@ This repository hosts the dataset and details related to the Tableau dashboard v
 
 Dashboard Link - [Netflix Dashboard](https://public.tableau.com/app/profile/shweta.vinod.kulkarni2486/viz/Netflix_Dashboard_17178823694320/Netflix)
 
-<img src="Netflix_Dasboard.jpg">
+<img src="Netflix_Dashboard.jpg">
 
 ## Dataset
 
